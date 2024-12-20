@@ -27,7 +27,7 @@ const Footer = () => (
           className="spoon__img"
           style={{ marginTop: "15px" }}
         />
-        <div className="app__footer-kinks_icons">
+        <div className="app__footer-links_icons">
           <FiFacebook />
           <FiTwitter />
           <FiInstagram />

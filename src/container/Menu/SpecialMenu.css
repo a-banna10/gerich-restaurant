@@ -66,7 +66,7 @@
   }
 }
 @media screen and (max-width: 650px) {
-  .app__specialMenu-menu_img {
+  .app_specialMenu-menu_img img {
     width: 100%;
   }
   .app__specialMenu-menu_heading {
